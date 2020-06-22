@@ -9,4 +9,6 @@ const pool = new Pool({
   ssl: isProduction,
 });
 
+isProduction ? process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0" : null;
+
 module.exports = { pool };
