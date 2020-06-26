@@ -46,7 +46,5 @@ DB_DATABASE=NOMBRE_BASE_DE_DATOS
 
 ## Link de la API en heroku
 
-https://api-unpaz-tutoriales.herokuapp.com/
-
 Trae todos los tutoriales: https://api-unpaz-tutoriales.herokuapp.com/api/tutoriales
 
