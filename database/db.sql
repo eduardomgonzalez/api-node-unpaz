@@ -1,3 +1,4 @@
+CREATE DATABASE apinode;
 
 CREATE TABLE tutoriales
 (
